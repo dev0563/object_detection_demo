@@ -1,0 +1,50 @@
+<annotation>
+	<folder>data</folder>
+	<filename>Image_001_008.tif</filename>
+	<path>C:\Users\Sarath Kumar\Desktop\IP\Labellmg\data\Image_001_008.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1151</width>
+		<height>1151</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vegetation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>666</xmin>
+			<ymin>80</ymin>
+			<xmax>920</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Barren Lands</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>21</ymin>
+			<xmax>1132</xmax>
+			<ymax>1137</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Urban</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>604</ymin>
+			<xmax>613</xmax>
+			<ymax>783</ymax>
+		</bndbox>
+	</object>
+</annotation>
