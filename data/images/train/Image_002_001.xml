@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data</folder>
+	<filename>Image_002_001.tif</filename>
+	<path>C:\Users\Sarath Kumar\Desktop\IP\Labellmg\data\Image_002_001.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1151</width>
+		<height>1151</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vegetation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>15</ymin>
+			<xmax>1143</xmax>
+			<ymax>1150</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>River</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>802</xmin>
+			<ymin>656</ymin>
+			<xmax>1151</xmax>
+			<ymax>916</ymax>
+		</bndbox>
+	</object>
+</annotation>
